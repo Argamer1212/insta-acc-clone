@@ -1,0 +1,27 @@
+body{
+    background-color: #333333;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+button{
+    height: 28px;
+    width: 100px;
+    background-color: #727272;
+    color: aliceblue;
+}
+#more{
+    height: 28px;
+    -ms-text-size-adjust: auto;
+    width: 100px;
+    background-color: #727272;
+    color: aliceblue
+    
+}
+pre{
+    background-color: #727272;
+}
+button:hover{
+    text-emphasis: click;
+    cursor: pointer;
+}
